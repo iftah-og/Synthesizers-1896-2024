@@ -5,7 +5,6 @@ This repository contains an analysis of hardware synthesizers, samplers, and dru
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Analysis](#analysis)
 - [Custom Metrics](#custom-metrics)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,13 +16,6 @@ This project analyzes a dataset of hardware synthesizers, samplers, and drum mac
 
 The data has been compiled through a mix of automated and manual processes, combined with extensive research. It is intended to be a valuable resource for researchers, musicians, and enthusiasts interested in exploring trends, patterns, and the history of synthesizers. The dataset is a work in progress and will be updated regularly with new releases and additional features.
 
-By exploring key attributes like synthesis types, polyphony, and production time, this project hopes to shed light on the technological advancements in music hardware.
-
-## Analysis
-
-The analysis focuses on exploring relationships between key features, including synthesis type, polyphony, and production trends. For example, a correlation heatmap visualizes the interaction between these features to identify significant trends in hardware synthesizer design.
-
-Visualizations also explore how the number of oscillators and the duration of production vary over time, offering insights into the evolving landscape of electronic music instruments.
 
 ## Custom Metrics
 
