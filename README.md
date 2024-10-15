@@ -2,13 +2,6 @@
 
 This repository contains an analysis of hardware synthesizers, samplers, and drum machines. The project focuses on exploring trends in electronic music devices, highlighting the evolution of these instruments and the various features they offer. It aims to provide insights into the development of these devices over time, using attributes such as synthesis types, polyphony, and production duration to name a few.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Custom Metrics](#custom-metrics)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -37,6 +30,10 @@ The notebooks guide you through visualizing trends and conducting analyses on th
 ## Contributing
 
 Contributions are welcome. If you have new data, suggestions, or improvements, feel free to submit a pull request.
+
+## Walkthrough Video
+
+You can watch a [Walkthrough Video of the Notebook and the Dataset here](https://youtu.be/Omj405hkOt0)
 
 ## Acknowledgments
 
