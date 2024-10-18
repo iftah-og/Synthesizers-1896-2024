@@ -1820,7 +1820,7 @@
 1818,2015,Novation,Novation - Circuit,Synth,Desktop,Digital,Digital,"VA, PCM",16,2,6,0,True,True,Pads,True,False,2015 - Present,10,0.3257734302196304
 1819,2015,Moog,Moog - Sequencer Complement B,Misc,Desktop,Miscellaneous,Controller,Sequencer,0,0,0,0,False,,,False,,2015 - 2018,3,0.1579123808449254
 1820,2015,Sound Machines,Sound Machines - Bi1 Brainterface,Misc,Desktop,Digital,Digital,Controller,0,0,0,0,True,,,False,,2015 - Present,10,0.2495018059546154
-1821,2015,Modal,Modal - 002R,Synth,Rack,Digital,Digital,VA,12,2,2,0,False,,,False,,2015 - Present,10,0.1313238419493519
+1821,2015,Modal,Modal - 002R,Synth,Rack,Hybrid,Hybrid,NCO,"8 or 12",2,"8 or 12",0,True,True,,False,,2015 - Present,10,0.1313238419493519
 1822,2015,Roland,Roland - Boutique Jp-08,Synth,Desktop,Digital,Digital,"VA, ACB",4,2,2,0,True,True,,False,,2015 - Present,10,0.4254073391387059
 1823,2015,Oberheim,Oberheim - 2 Voice Tvs Pro,Synth,Keys,Analog,Analog,VCO,2,2,2,37,True,,Keys,True,channel,2015 - Present,10,0.4562945908956989
 1824,2015,Moog,Moog - System 35,Synth,Desktop,Analog,Modular,Modular,1,1,0,0,False,,,False,,2015 - 2018,3,0.3195823346362301
@@ -1843,12 +1843,12 @@
 1841,2015,Yamaha,Yamaha Reface Yc,Synth,Keys,Digital,Modeling,Additive,128,0,0,37,True,True,"Keys, mini",True,False,2015 - Present,10,0.5733509876331053
 1842,2015,Roland,Roland Juno Ds 88,Synth,Keys,Digital,Sample-based,Sample,128,0,0,88,True,True,,True,False,2015 - Present,10,0.2510648799838977
 1843,2015,Roland,Roland Juno Ds 61,Synth,Keys,Digital,Sample-based,Sample,128,0,0,61,True,True,,True,False,2015 - Present,10,0.2644095924239618
-1844,2015,Modal,Modal - 002,Synth,Keys,Digital,Digital,VA,12,2,2,61,True,,Keys,True,channel,2015 - Present,10,0.1688030200834202
+1844,2015,Modal,Modal - 002,Synth,Keys,Hybrid,Hybrid,NCO,12,2,12,61,True,True,Keys,True,channel,2015 - Present,10,0.1688030200834202
 1845,2015,WMD-SSF,Wmd-Ssf - Monolith,Synth,Keys,Analog,Analog,Modular,1,2,1,37,True,,Keys,True,channel,2015 - Present,10,0.1620352530322903
 1846,2015,Vermona,Vermona - Mono Lancet ’15,Synth,Desktop,Analog,Analog,VCO,1,2,1,0,True,,,False,,2015 - Present,10,0.269139317573315
 1847,2015,Yamaha,Yamaha Reface Cp,Synth,Keys,Digital,Modeling,SCM,128,0,0,37,True,True,"Keys, mini",True,False,2015 - Present,10,0.5692860790178509
 1848,2015,Roland,Roland - Jd-Xa,Synth,Keys,Hybrid,Hybrid,"DCO, PCM",68,2,8,49,True,True,Keys,True,True,2015 - Present,10,0.5086872133913684
-1849,2015,Modal,Modal - 001,Synth,Keys,Digital,Digital,VA,2,2,2,37,True,,Keys,True,channel,2015 - Present,10,0.2171565034983994
+1849,2015,Modal,Modal - 001,Synth,Keys,Hybrid,Hybrid,NCO,2,2,2,37,True,True,Keys,True,channel,2015 - Present,10,0.2171565034983994
 1850,2015,Analogue Solutions,Analogue Solutions - Nyborg 12,Synth,Desktop,Analog,Analog,VCO,1,2,1,0,True,,,False,,2015 - 2018,3,0.1313593639970574
 1851,2015,MFB,Mfb - Dominion 1,Synth,Keys,Analog,Analog,VCO,1,3,1,37,True,True,Keys,True,channel,2015 - 2019,4,0.1880036693110151
 1852,2015,Clavia,Clavia - Nord Stage 2 Ex 88,Synth,Keys,Digital,Digital,"VA, FM, PM, WT, Sample",60,2,2,88,True,True,"Keys, Hammer Action",True,channel,2015 - 2017,2,0.3401475821210752
@@ -1997,7 +1997,7 @@
 1995,2016,Soulsby,Soulsby - Odytron,Synth,Desktop,Digital,Digital,WT,2,2,0,0,True,True,,False,,2016 - 2016,0,0.1831258704364337
 1996,2016,Kurzweil,Kurzweil - Forte 7,Synth,Keys,Digital,Digital,"Sample, Wave",128,32,16,76,True,True,"Keys, Hammer action",True,channel,2016 - 2020,4,0.3984040138937033
 1997,2016,Teenage Engineering,Teenage Engineering - Po-24 Office,Synth,Desktop,Digital,Digital,"PM, ROM",16,1,1,0,False,True,Buttons,False,False,2016 - Present,9,0.3775420362349724
-1998,2016,Modal,Modal - 008,Synth,Keys,Analog,Analog,VCO,8,2,2,61,True,,Keys,True,channel,2016 - 2023,7,0.1642390741363918
+1998,2016,Modal,Modal - 008,Synth,Keys,Analog,Analog,VCO,8,2,2,61,True,True,Keys,True,channel,2016 - 2023,7,0.1642390741363918
 1999,2016,Anyware-Instruments,Anyware-Instruments - Minisizer,Synth,Desktop,Analog,Modular,VCO,1,1,1,0,True,,,False,,2016 - 2019,3,0.2202529911858517
 2000,2016,Roland,Roland - Aira System-8,Synth,Keys,Digital,Digital,"VA, ACB",8,3,1,49,True,True,Keys,True,False,2016 - Present,9,0.3349963765090146
 2001,2016,Ciat Lonbarde,Ciat Lonbarde - Zenert,Synth,Desktop,Digital,Digital,Noice,1,1,1,0,False,,Touch plate,False,False,2016 - Present,9,0.2136543046035333
@@ -2012,7 +2012,7 @@
 2010,2016,Pittsburgh Modular,Pittsburgh Modular - Lifeforms System-301,Synth,Desktop,Analog,Analog,Modular,1,2,1,0,True,,Touchpads,False,False,2016 - 2021,5,0.1545107957979096
 2011,2016,Roland,Roland - Boutique Tb-03,Synth,Desktop,Digital,Digital,"VA, ACB",1,1,1,0,True,True,Buttons,False,False,2016 - Present,9,0.4699812893308237
 2012,2016,Roland,Roland - Boutique Tr-09,Drum,Desktop,Digital,Digital,"VA, ACB",10,1,1,0,True,True,Buttons,False,False,2016 - 2019,3,0.4392966144234799
-2013,2016,Modal,Modal - 008R,Synth,Rack,Analog,Analog,VCO,8,2,2,0,True,,,False,,2016 - 2023,7,0.1628953272563224
+2013,2016,Modal,Modal - 008R,Synth,Rack,Analog,Analog,VCO,8,2,2,0,True,True,,False,,2016 - 2023,7,0.1628953272563224
 2014,2016,Pittsburgh Modular,Pittsburgh Modular - Lifeforms System-101,Synth,Desktop,Analog,Analog,Modular,1,2,1,0,True,,,False,,2016 - 2021,5,0.1274126682912561
 2015,2016,Teenage Engineering,Teenage Engineering - Po-28 Robot,Synth,Desktop,Digital,Digital,"PM, ROM",16,1,1,0,False,True,Buttons,False,False,2016 - Present,9,0.3294545207954307
 2016,2016,Lorre Mill,Lorre Mill - Double Knot,Synth,Desktop,Analog,Modular (Semi),VCO,1,2,1,0,False,,,False,,2016 - Present,9,0.1874734151737532
